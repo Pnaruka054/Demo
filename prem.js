@@ -8,7 +8,7 @@ singh
 prem
  asdofihsfoiuhsfisafsadfs
 export default gsg
-dfgdsfgdfg
+new MediaDeviceInfo
 dfgdsfgdfgdfsg
 dfgdsfgdfggdg
 dfgdsfgdfgdfsgdgd;
