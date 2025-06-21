@@ -1,13 +1,6 @@
 sdfsdfsdafsafsadf
 sdfsdfsdafsafsadfsdf
-const gsg
-dfgdsfgdfg
-dfgdsfgdfgdfsg
-dfgdsfgdfggdg
-singh
-prem
- 
-export default gsg
+asdofihsfoiuhsfisafsadfs
 dfgdsfgdfg
 dfgdsfgdfgdfsg
 dfgdsfgdfggdg
