@@ -1,7 +1,6 @@
 sdfsdfsdafsafsadf
 sdfsdfsdafsafsadfsdf
 const gsg
-this is own 
 singh
 prem
  asdofihsfoiuhsfisafsadfs
